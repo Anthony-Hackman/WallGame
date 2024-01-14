@@ -14,7 +14,7 @@
 2. Install Pygame: `pip install pygame`.
 
 ### Running the Game
-- Run `HoleinWallGame.py` with Python to start the game.
+- Run `WallGame.py` with Python to start the game.
 
 ## Gameplay
 
